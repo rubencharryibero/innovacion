@@ -17,5 +17,7 @@
         <input type="Submit" value="Ingresar" class="btn btn-primary">
     </div>
     </form>
+
+    <p>Prueba</p>
 </div>
 @endsection
