@@ -18,6 +18,6 @@
     </div>
     </form>
 
-    <p>Prueba</p>
+    <p>Prueba.</p>
 </div>
 @endsection
